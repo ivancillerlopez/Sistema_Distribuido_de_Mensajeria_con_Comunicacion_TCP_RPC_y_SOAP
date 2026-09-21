@@ -1,4 +1,4 @@
-# Sistema-Distribuido-de-Mensajer-a-con-Comunicaci-n-TCP-RPC-y-SOAP
+# Sistema Distribuido de Mensajería con Comunicación TCP RPC y SOAP
 Tecnologías: C - Python - TCP/IP - Sockets - Pthreads - RPC - SOAP - Spyne - Zeep: 
 - Desarrollo de un sistema cliente-servidor TCP concurrente en C mediante Pthreads.
 - Gestión concurrente de usuarios, colas FIFO, mensajería y envío de archivos.
