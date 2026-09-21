@@ -1,0 +1,15 @@
+attrs==26.1.0
+certifi==2026.4.22
+charset-normalizer==3.4.7
+idna==3.13
+isodate==0.7.2
+lxml==6.1.0
+platformdirs==4.9.0
+pytz==2026.2
+requests==2.33.1
+requests-file==3.0.1
+requests-toolbelt==1.0.0
+six==1.17.0
+spyne @ git+https://github.com/arskom/spyne.git@master
+urllib3==2.7.0
+zeep==4.3.2
